@@ -1,0 +1,6 @@
+{
+  "name": "Beacon College Admission Portal",
+  "description": "Prospective student admission system for Beacon College. Apply online, track status, and manage applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
